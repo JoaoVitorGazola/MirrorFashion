@@ -56,3 +56,28 @@ p::first-letter{
     float: right;
     margin: 0 0 10px 10px;
 }
+.container{
+    margin: 0 auto;
+    width: 940px;
+}
+
+footer{
+    background-image: url(../img/fundo-rodape.png);
+    clear: both;
+    padding: 20px 0;
+}
+
+footer .container{
+    position: relative;
+}
+
+.social{
+    position: absolute;
+    top: 12px;
+    right: 0;
+}
+
+.social li{
+    float: left;
+    margin-left: 25px;
+}
