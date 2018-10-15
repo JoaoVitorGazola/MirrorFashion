@@ -1,3 +1,7 @@
-$('.painel button').click(function () {
-    $('.painel').toggleClass('painel-aberto');
+$('.novidades button').click(function () {
+    $('.novidades').toggleClass('painel-aberto');
+});
+
+$('.mais-vendidos button').click(function () {
+    $('.mais-vendidos').toggleClass('painel-aberto');
 });

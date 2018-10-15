@@ -1,4 +1,7 @@
 <?php
+$conexao = mysqli_connect("127.0.0.1", "root", "", "WD43");
+$dados = mysqli_query($conexao, "SELECT * FROM produtos where id= $_GET[id]");
+$produto = mysqli_fetch_array($dados);
 $cabecalho_title = "Produto da Mirror Fashion";
 $cabecalho_css = '    <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/estilos.css">
@@ -9,30 +12,30 @@ include ("cabecalho.php"); ?>
     <div class="container">
         <div class="produto">
             <h1>
-                Fuzzy Cardigan
+                <?= $produto['nome'] ?>
             </h1>
             <p>
-                Por apenas R$ 129,90
+                Por apenas <?= $produto['preco']?>
             </p>
 
-            <form action="checkout.php" method="post">
+            <form action="checkout.php?id=<?= $produto['id']?>" method="post">
                 <fieldset class="cores">
                     <legend>
                         Escolha a cor:
                     </legend>
                     <input type="radio" name="cor" value="verde" id="verde" checked>
                     <label for="verde">
-                        <img src="img/produtos/foto1-verde.png" alt="Produto na cor Verde">
+                        <img src="img/produtos/foto<?= $produto['id']?>-verde.png" alt="Produto na cor Verde">
                     </label>
 
                     <input type="radio" name="cor" value="rosa" id="rosa">
                     <label for="rosa">
-                        <img src="img/produtos/foto1-rosa.png" alt="Produto na cor rosa">
+                        <img src="img/produtos/foto<?= $produto['id']?>-rosa.png" alt="Produto na cor rosa">
                     </label>
 
                     <input type="radio" name="cor" value="azul" id="azul">
                     <label for="azul">
-                        <img src="img/produtos/foto1-azul.png" alt="Produto na cor azul">
+                        <img src="img/produtos/foto<?= $produto['id']?>-azul.png" alt="Produto na cor azul">
                     </label>
                 </fieldset>
 
@@ -51,7 +54,7 @@ include ("cabecalho.php"); ?>
                 Detalhes do produto
             </h2>
             <p>
-                Esse é o melhor casaco de Cardigã que você já viu. Excelente material italiano com estampa desenhada pelos artesãos da comunidade de Krotor nas ilhas gregas. Compre já e receba hoje mesmo pela nossa entrega a jato.
+                <?= $produto['descricao']?>
             </p>
             <table>
                 <thead>

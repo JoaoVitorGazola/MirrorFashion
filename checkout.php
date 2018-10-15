@@ -1,5 +1,10 @@
+<?php
+$conexao = mysqli_connect("127.0.0.1", "root", "", "WD43");
+$dados = mysqli_query($conexao, "SELECT * FROM produtos where id= $_GET[id]");
+$produto = mysqli_fetch_array($dados);
+?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8" name="viewport" content="width=device-width">
     <title>Checkout Mirror Fashion</title>
@@ -50,16 +55,16 @@
         <div class="col-md-4 col-xl-3">
             <h2 class="card-header">Sua compra</h2>
             <div class="card-body">
-                <img src="img/produtos/foto1-<?php print $_POST['cor']?>.png" alt="Fuzzy Cardigan" class="img-thumbnail mb-3 d-none d-sm-block">
+                <img src="img/produtos/foto<?= $produto['id']?>-<?php print $_POST['cor']?>.png" alt="<?= $produto['nome']?>" class="img-thumbnail mb-3 d-none d-sm-block">
                 <d1>
                     <dt>Produto</dt>
-                    <dd>Fuzzy Cardigan</dd>
+                    <dd><?= $produto['nome']?></dd>
                     <dt>Cor</dt>
                     <dd><?= $_POST['cor']?></dd>
                     <dt>Tamanho</dt>
                     <dd><?= $_POST['tamanho']?></dd>
                     <dt>Preço</dt>
-                    <dd id="preco">R$ 129,90</dd>
+                    <dd id="preco"><?= $produto['preco']?></dd>
                 </d1>
             </div>
             <div class="card mb-3">
@@ -70,7 +75,7 @@
                     </div>
                     <div class="form-group">
                         <label for="total">Total:</label>
-                        <output for="qtd preco" id="total" class="form-control">R$ 129,90</output>
+                        <output for="qtd preco" id="total" class="form-control"><?= $produto['preco']?></output>
                     </div>
                 </div>
             </div>
