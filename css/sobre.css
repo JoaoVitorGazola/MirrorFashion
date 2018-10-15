@@ -28,6 +28,10 @@ p{
     padding: 0 45px;
     text-indent: 15px;
 }
+#endereco{
+    display: inline-block;
+    margin-left: 240px;
+}
 h1 + p{
     text-indent: 0;
 }
@@ -37,6 +41,7 @@ p::first-letter{
 :not(p) + p::first-line{
     font-variant: small-caps;
 }
+
 #centro-distribuicao{
     margin-right: auto;
     margin-left: auto;
@@ -60,6 +65,13 @@ p::first-letter{
     margin: 0 auto;
     width: 940px;
 }
+#video{
+    float: right;
+    display: inline-block;
+    margin-bottom: 10px;
+
+}
+
 
 footer{
     background-image: url(../img/fundo-rodape.png);

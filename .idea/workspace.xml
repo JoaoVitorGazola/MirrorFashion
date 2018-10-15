@@ -2,11 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="437037ac-adbc-49b0-af8d-840fa5d6354c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/checkout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/sobre.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sobre.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/body-background.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/body-background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/busca.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/busca.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/centro-distribuicao.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/centro-distribuicao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/destaque-home-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/destaque-home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/fundo-rodape.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/fundo-rodape.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/googleplus.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/googleplus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-rodape.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo-rodape.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto1-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto1-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto1-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto1-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto1-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto1-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto10-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto10-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto10-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto10-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto10-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto10-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto11-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto11-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto11-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto11-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto11-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto11-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto12-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto12-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto12-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto12-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto12-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto12-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto13-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto13-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto13-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto13-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto13-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto13-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto14-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto14-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto14-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto14-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto14-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto14-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto15-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto15-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto15-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto15-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto15-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto15-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto2-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto2-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto2-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto2-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto2-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto2-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto3-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto3-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto3-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto3-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto3-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto3-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto4-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto4-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto4-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto4-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto4-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto4-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto5-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto5-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto5-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto5-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto5-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto5-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto6-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto6-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto6-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto6-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto6-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto6-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto7-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto7-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto7-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto7-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto7-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto7-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto8-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto8-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto8-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto8-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto8-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto8-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto9-azul.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto9-azul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto9-rosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto9-rosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/foto9-verde.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/foto9-verde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura10.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura11.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura12.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura13.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura14.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura15.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura4.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura5.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura6.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura7.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura8.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/produtos/miniatura9.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/produtos/miniatura9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sacola.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sacola.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/twitter.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/banner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sobre.html" beforeDir="false" afterPath="$PROJECT_DIR$/sobre.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -70,35 +143,35 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="3556" />
-          <entry key="html" value="3582" />
-          <entry key="js" value="1316" />
+          <entry key="css" value="3776" />
+          <entry key="html" value="3698" />
+          <entry key="js" value="1325" />
           <entry key="rnc" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="3556" />
-          <entry key="HTML" value="3582" />
-          <entry key="JavaScript" value="1316" />
+          <entry key="CSS" value="3776" />
+          <entry key="HTML" value="3698" />
+          <entry key="JavaScript" value="1325" />
           <entry key="RNG Compact" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="15" />
-          <entry key="html" value="15" />
-          <entry key="js" value="13" />
-          <entry key="png" value="2" />
+          <entry key="css" value="17" />
+          <entry key="html" value="17" />
+          <entry key="js" value="14" />
+          <entry key="png" value="3" />
           <entry key="rnc" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="15" />
-          <entry key="HTML" value="15" />
-          <entry key="Image" value="2" />
-          <entry key="JavaScript" value="13" />
+          <entry key="CSS" value="17" />
+          <entry key="HTML" value="17" />
+          <entry key="Image" value="3" />
+          <entry key="JavaScript" value="14" />
           <entry key="RNG Compact" value="1" />
         </counts>
       </usages-collector>
@@ -107,10 +180,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/checkout.html">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="97" column="131" selection-start-line="97" selection-start-column="131" selection-end-line="97" selection-end-column="131" />
+            <state relative-caret-position="381">
+              <caret line="56" column="43" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/banner.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="65" selection-start-column="65" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/estilos.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="127" column="42" selection-start-line="127" selection-start-column="42" selection-end-line="127" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -160,13 +251,13 @@
         <option value="$PROJECT_DIR$/js/produto.js" />
         <option value="$PROJECT_DIR$/css/produto.css" />
         <option value="$PROJECT_DIR$/js/total.js" />
-        <option value="$PROJECT_DIR$/css/sobre.css" />
-        <option value="$PROJECT_DIR$/sobre.html" />
-        <option value="$PROJECT_DIR$/js/banner.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/estilos.css" />
         <option value="$PROJECT_DIR$/js/home.js" />
         <option value="$PROJECT_DIR$/checkout.html" />
+        <option value="$PROJECT_DIR$/sobre.html" />
+        <option value="$PROJECT_DIR$/css/sobre.css" />
+        <option value="$PROJECT_DIR$/css/estilos.css" />
+        <option value="$PROJECT_DIR$/js/banner.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -198,6 +289,21 @@
             <path>
               <item name="MirrorFashion" type="b2602c69:ProjectViewProjectNode" />
               <item name="MirrorFashion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MirrorFashion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MirrorFashion" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MirrorFashion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MirrorFashion" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MirrorFashion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MirrorFashion" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -260,12 +366,12 @@
       <workItem from="1539119384083" duration="599000" />
       <workItem from="1539174084654" duration="15823000" />
       <workItem from="1539542833727" duration="80000" />
-      <workItem from="1539543370364" duration="3741000" />
+      <workItem from="1539543370364" duration="6527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75063000" />
+    <option name="totallyTimeSpent" value="77849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -383,20 +489,6 @@
     <entry file="file://$PROJECT_DIR$/img/produtos/miniatura1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/sobre.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sobre.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/produto.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -418,13 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="160" column="17" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -432,24 +517,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/banner.js">
+    <entry file="file://$PROJECT_DIR$/checkout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        <state relative-caret-position="273">
+          <caret line="97" column="131" selection-start-line="97" selection-start-column="131" selection-end-line="97" selection-end-column="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/centro-distribuicao.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sobre.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sobre.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/estilos.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="243" column="29" selection-start-line="243" selection-start-column="29" selection-end-line="243" selection-end-column="29" />
+        <state relative-caret-position="408">
+          <caret line="127" column="42" selection-start-line="127" selection-start-column="42" selection-end-line="127" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/checkout.html">
+    <entry file="file://$PROJECT_DIR$/js/banner.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="97" column="131" selection-start-line="97" selection-start-column="131" selection-end-line="97" selection-end-column="131" />
+        <state>
+          <caret column="65" selection-start-column="65" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="56" column="43" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
         </state>
       </provider>
     </entry>
