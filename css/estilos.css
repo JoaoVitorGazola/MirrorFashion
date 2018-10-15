@@ -120,6 +120,74 @@ header{
     padding-bottom: 10px;
     transition: 0.7s ease-out;
 }
+#video{
+    float: right;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+#centro-distribuicao{
+    margin-right: auto;
+    margin-left: auto;
+    width: 550px;
+}
+
+#familia-pelho{
+    float: right;
+    margin: 10px 0 10px 10px;
+
+}
+#endereco{
+    display: inline-block;
+    margin-left: 240px;
+}
+.social{
+    position: absolute;
+    top: 12px;
+    right: 0;
+}
+
+.social li{
+    float: left;
+    margin-left: 25px;
+}
+
+.sobre h1{
+    background-image: url(../img/sobre-background.jpg);
+    padding: 10px;
+    margin-top: 10px;
+}
+.sobre h2{
+    border-bottom: 2px solid #333333;
+    margin-top: 30px;
+}
+.sobre figure{
+    border: 1px solid #cccccc;
+    background-color: #F2EDED;
+    text-align: center;
+    padding: 15px;
+    margin: 30px;
+}
+.sobre figcaption{
+    font-style: italic;
+    margin-top: 10px;
+}
+.sobre p{
+    padding: 0 45px;
+    text-indent: 15px;
+}
+
+.sobre h1 + p{
+    text-indent: 0;
+}
+.sobre p::first-letter{
+    font-weight: bold;
+}
+.sobre :not(p) + p::first-line{
+    font-variant: small-caps;
+}
+
 
 .painel h2{
     font-size: 24px;
@@ -286,7 +354,6 @@ footer .container{
 .painel li:nth-child(2n):hover{
     transform: scale(1.2) rotate(5deg);
 }
-
 @media (max-width: 939px) {
 
     .container{
@@ -346,6 +413,7 @@ footer .container{
         .menu-departamentos nav > ul{
             column-count: 2;
         }
+
     }
 
     @media (min-width: 720px) {
@@ -378,7 +446,6 @@ footer .container{
         .banner-destaque img{
             width: 69%;
         }
-
     }
 }
 
