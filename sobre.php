@@ -4,8 +4,8 @@ $cabecalho_css = '<link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/estilos.css">
     <link rel="stylesheet" href=\'http://fonts.googleapis.com/css?family=PT+Sans|Bad+Script\'>';
 include ("cabecalho.php"); ?>
-<body class="container">
-<div class="sobre">
+<body>
+<div class="sobre container">
 <h1>A Mirror Fashion</h1>
 
 <p>
@@ -72,9 +72,9 @@ include ("cabecalho.php"); ?>
     <li>* Presente em 124 países</li>
     <li>* Mais de um milhão de funcionários em todo o mundo</li>
 </ul>
-
-</body>
 </div>
+</body>
+
 
 <?php include ("rodape.php"); ?>
 </html>
